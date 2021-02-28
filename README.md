@@ -7,7 +7,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=7159c1&labelColor=1a1a1f" alt="License">
+  <a href="https://github.com/pedromiguelsbs/simple_calculator/blob/master/LICENSE">
+    <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=7159c1&labelColor=1a1a1f" alt="License">
+  </a>
   <a href="https://www.linkedin.com/in/pedromiguelsbs/">
     <img src="https://img.shields.io/static/v1?label=Made-by&message=pedromiguelsbs&color=7159c1&labelColor=1a1a1f" alt="Made by pedromiguelsbs">
   </a>
