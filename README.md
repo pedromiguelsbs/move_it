@@ -57,7 +57,7 @@ https://nlw-moveit-app.vercel.app/
 Para executar a aplicação você precisará do [Git](https://git-scm.com), [Node JS][nodejs], [NPM][npm] e do [Yarn][yarn] instalados no seu computador.
 ```bash
 # Clone este repositório:
-$ git clone https://github.com/pedromiguelsbs/moveit
+$ git clone https://github.com/pedromiguelsbs/move_it
 
 # Entre na pasta do repositório:
 $ cd moveit
