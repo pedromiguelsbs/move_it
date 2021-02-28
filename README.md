@@ -1,10 +1,5 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/p5DqZ5X.png" alt="Next Level Week #04 Banner" width="250px"/>
-</h1>
-
-<h3 align="center">
-  Next Level Week #04
-</h3>
+<h1 align="center"><img src="https://i.imgur.com/p5DqZ5X.png" alt="Next Level Week #04 Banner" width="250px"/></h1>
+<h2 align="center"><img src=".github/logo.png" alt="move.it"/></h2>
 
 <p align="center">
   <a href="https://github.com/pedromiguelsbs/simple_calculator/blob/master/LICENSE">
@@ -43,17 +38,16 @@ Controle o seu tempo, seja mais produtivo e cuide da sua saúde! "Move It" é um
 - [Yarn][yarn]
 - [Next JS][nextjs]
 
-## ℹ Como utilizar
+## ℹ Como utilizar?
 
-
-### 1° Opção, acessando através do link:
+### 1° Opção: Acessando através do link:
 ```
 https://nlw-moveit-app.vercel.app/
 ```
 
 <hr>
 
-### 2° Opção, executando localmente:
+### 2° Opção: Executando localmente:
 Para executar a aplicação você precisará do [Git](https://git-scm.com), [Node JS][nodejs], [NPM][npm] e do [Yarn][yarn] instalados no seu computador.
 ```bash
 # Clone este repositório:
