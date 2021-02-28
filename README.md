@@ -32,7 +32,11 @@ Controle o seu tempo, seja mais produtivo e cuide da sua saúde! "Move It" é um
 
 ## 🔖 Layout
 
-Imagem do Layout
+<img src="https://i.imgur.com/MOyjS86.png" alt="Layout-1">
+<img src="https://i.imgur.com/nrxlb3v.png" alt="Layout-2">
+<img src="https://i.imgur.com/j2HOhBq.png" alt="Layout-3">
+<img src="https://i.imgur.com/LZHLmvY.png" alt="Layout-4">
+
 
 ## 🚀 Tecnologias
 
@@ -48,7 +52,7 @@ Imagem do Layout
 
 ### 1° Opção, acessando através do link:
 ```
-https://pedromiguelsbs.github.io/moveit/
+https://nlw-moveit-app.vercel.app/
 ```
 
 <hr>
@@ -67,6 +71,9 @@ $ npm install --global yarn
 
 # Execute o projeto:
 $ yarn dev
+
+# Acesse a aplicação:
+$ start http://localhost:3000/
 ```
 
 [nodejs]: https://nodejs.org/en/
