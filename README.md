@@ -13,10 +13,6 @@
   <a href="https://www.linkedin.com/in/pedromiguelsbs/">
     <img src="https://img.shields.io/static/v1?label=Made-by&message=pedromiguelsbs&color=7159c1&labelColor=1a1a1f" alt="Made by pedromiguelsbs">
   </a>
-  <a href="https://github.com/pedromiguelsbs/moveit/commits/main">
-    <img src="https://img.shields.io/github/last-commit/pedromiguelsbs/moveit?color=7159c1&label=Last%20commit&labelColor=1a1a1f" alt="Last commit">
-  </a> 
-  <img src="https://img.shields.io/github/repo-size/pedromiguelsbs/moveit?color=7159c1&label=Repository%20Size&labelColor=1a1a1f" alt="Repository size">
 </p>
 
 <p align="center">
@@ -61,7 +57,7 @@ https://nlw-moveit-app.vercel.app/
 Para executar a aplicação você precisará do [Git](https://git-scm.com), [Node JS][nodejs], [NPM][npm] e do [Yarn][yarn] instalados no seu computador.
 ```bash
 # Clone este repositório:
-$ git clone https://github.com/pedromiguelsbs/moveit
+$ git clone https://github.com/pedromiguelsbs/move_it
 
 # Entre na pasta do repositório:
 $ cd moveit
