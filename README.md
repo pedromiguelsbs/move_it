@@ -28,7 +28,10 @@ Controle o seu tempo, seja mais produtivo e cuide da sua saúde! "Move It" é um
 
 ## 🔖 Layout
 
-
+<img src="https://i.imgur.com/MOyjS86.png" alt="Layout-1">
+<img src="https://i.imgur.com/nrxlb3v.png" alt="Layout-2">
+<img src="https://i.imgur.com/j2HOhBq.png" alt="Layout-3">
+<img src="https://i.imgur.com/LZHLmvY.png" alt="Layout-4">
 
 
 ## 🚀 Tecnologias
