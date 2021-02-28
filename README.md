@@ -28,7 +28,7 @@
 
 ## 💻 Projeto
 
-Descrição do projeto
+Controle o seu tempo, seja mais produtivo e cuide da sua saúde! "Move It" é uma aplicação desenvolvida para o gerenciamento do tempo, similar a técnica do pomodoro (dividindo seu trabalho em períodos de 25 minutos). Após os 25 minutos será gerado um desafio, podendo ser um alongamento para o corpo ou exercícios para os olhos quando cumpridos pontos de xp serão adquiridos, acumule pontos e suba de nível!
 
 ## 🔖 Layout
 
